@@ -1,0 +1,2 @@
+# anonymize-DPO-aplication
+ Um exemplo de código em Python que pode ser usado para ilustrar uma atividade de um DPO (Oficial de Proteção de Dados) relacionada à anonimização de dados. A anonimização de dados é um procedimento importante para proteger a privacidade dos indivíduos e garantir o cumprimento de regulamentos, como o GDPR (Regulamento Geral de Proteção de Dados) na União Europeia e LGPD no Brasil.
